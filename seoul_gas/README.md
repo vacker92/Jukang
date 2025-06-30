@@ -34,4 +34,4 @@
 ## 활용 기술 
 ubuntu (mysql)  
 python (pandas, matplotlib, seaborn, sklearn, geopandas)  
-KMeans 
+KMeans 클러스터링
