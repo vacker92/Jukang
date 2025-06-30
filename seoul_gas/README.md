@@ -16,6 +16,7 @@
 2. 서울시 상주인구
 [서울열린데이터광장](https://data.seoul.go.kr/dataList/OA-22182/S/1/datasetView.do)
     - 서울시 자치구별 상주인구 (총인구, 성별, 연령별)
+    - [데이터 전처리 후 mysql 업로드](https://github.com/vacker92/Jukang/blob/main/seoul_gas/population_sql.ipynb)
 
 ---
 
