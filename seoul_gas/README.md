@@ -22,6 +22,7 @@
 3. 서울시 소득소비 통계
 [서울열린데이터광장](http://data.seoul.go.kr/dataList/OA-22167/S/1/datasetView.do)
     - 가구당 월 평균 소득 및 지출 항목 (자치구기준, 연도별제공)
+    - [데이터 전처리 후 mysql 업로드](https://github.com/vacker92/Jukang/blob/main/seoul_gas/income_sql.ipynb)
 
 ---
 
