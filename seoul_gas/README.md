@@ -35,3 +35,6 @@
 ubuntu (mysql)  
 python (pandas, matplotlib, seaborn, sklearn, geopandas)  
 KMeans 클러스터링
+
+
+# [보고서](https://github.com/vacker92/Jukang/blob/main/seoul_gas/seoul_cluster.pdf)
