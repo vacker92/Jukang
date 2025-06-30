@@ -31,5 +31,7 @@
 [GeoJSON 지도 파일](https://raw.githubusercontent.com/southkorea/seoul-maps/master/kostat/2013/json/seoul_municipalities_geo_simple.json)
 
 
-
-
+## 활용 기술 
+ubuntu (mysql)
+python (pandas, matplotlib, seaborn, sklearn, geopandas)
+KMeans 
