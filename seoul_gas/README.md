@@ -9,6 +9,7 @@
 1. 서울시 도시가스 이용 현황 (2019~2023)
   [서울열린데이터광장](https://data.seoul.go.kr/dataList/125/S/2/datasetView.do)
     - 서울시 자치구별 도시가스 공급량 및 사용량 (연도별)
+    - [데이터 전처리 후 mysql 업로드](https://github.com/vacker92/Jukang/blob/main/seoul_gas/gas_sql.ipynb)
 
 ---
 
