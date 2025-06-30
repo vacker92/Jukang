@@ -32,6 +32,6 @@
 
 
 ## 활용 기술 
-ubuntu (mysql)
-python (pandas, matplotlib, seaborn, sklearn, geopandas)
+ubuntu (mysql)  
+python (pandas, matplotlib, seaborn, sklearn, geopandas)  
 KMeans 
