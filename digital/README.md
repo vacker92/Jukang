@@ -7,9 +7,9 @@
 
 ### 데이터 출처
 
-데이터셋(https://www.kaggle.com/datasets/khushikyad001/impact-of-screen-time-on-mental-health/data)
+[데이터셋](https://www.kaggle.com/datasets/khushikyad001/impact-of-screen-time-on-mental-health/data)
 
-참조자료(https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=65914&bcIdx=27831&parentSeq=27831)
+[참조자료](https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=65914&bcIdx=27831&parentSeq=27831)
 
 
 ## 주요 분석방법
